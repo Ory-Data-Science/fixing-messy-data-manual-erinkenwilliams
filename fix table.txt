@@ -1,0 +1,5 @@
+Everything that is wrong with the data
+some data is missing from some of the tables
+one table has different data than another
+the weight is labled within the boxes, 36g is not a number 
+scale not calibrated 
